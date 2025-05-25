@@ -18,9 +18,11 @@ data/
 
 
 ## Citation
-```@article{fan2025peerguard,
+```
+@article{fan2025peerguard,
   title={PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning},
   author={Fan, Falong and Li, Xi},
   journal={arXiv preprint arXiv:2505.11642},
   year={2025}
-}```
+}
+```
