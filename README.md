@@ -25,4 +25,3 @@ data/
   journal={arXiv preprint arXiv:2505.11642},
   year={2025}
 }
-```
